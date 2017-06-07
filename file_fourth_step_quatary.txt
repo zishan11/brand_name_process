@@ -1,0 +1,93 @@
+Hottinger Baldwin Messtechnik GmbH                # Hottinger Baldwin Messtechnik GmbH
+Digital Data Communications Asia                  # Digital Data Communications Asia
+OBR CTM				                  # OBR Centrum Techniki Morskiej
+RMIT			                          # Royal Melbourne Inst Tech
+Glodio Technolies 		                  # Glodio TechnoliesLtd Tianjin Branch
+AFT Atlas Fahrzeugtechnik GmbH                    # AFT Atlas Fahrzeugtechnik GmbH
+CESG					          # Communications Electronics Security Group
+Digital Telecom Technology Ltd		           # Digital Telecom Technology Limited
+Computer Communication Research LAB               # Computer Communication Research LAB
+Eastern Asia Technology Limited                   # Eastern Asia Technology Limited
+Beijing Optical Communication Technology           # Beijing Optical Communication Technology
+The Electric Controller Manufacturing             # The Electric Controller Manufacturing
+Terabytes Server Storage Tech                     # Terabytes Server Storage Tech
+Pentacon GmbH Fotound Feinwerktechnik             # Pentacon GmbH Fotound Feinwerktechnik
+Techfaith				          # Techfaithwireless Communication Technology Limited
+Arnold & Richter Cine Technik                       # Arnold Richter Cine Technik
+Behringer Spezielle Studiotechnik Gmbh            # Behringer Spezielle Studiotechnik Gmbh
+广州芯德电子				          # Guangzhou Vsolution Electronic Technology
+Prftechnik Condition Monitoring GmbH              # Prftechnik Condition Monitoring GmbH
+Electronic Design Manufacturing 		  # Electronic Design Manufacturing Company
+Ist isdn-support technik GmbH                      # ist isdnsupport technik GmbH
+Eastern Communications  Ltd		           # Eastern Communications Company Limited
+Hikvision				            # Hangzhou Hikvision Digital Technology
+Digital China			                  # Digital China Shanghai Networks
+Peachtree Audio                     		  # Signal Path International Peachtree Audio
+Apex Tool Group                                   # Apex Tool Group GmbH OHG
+沃特沃德科技有限公司                             # Hong Kong Water World Technology Limited
+Salutica 		                          # Salutica Allied Solutions Sdn Bhd
+华电智能 				           # Foshan Huadian Intelligent Communications Teachnologies
+Panasonic 			                 # Panasonic Electric Works Automation Controls Techno
+Philips 			               # Philips Medical Systems Cardiac Monitoring Systems
+Telefunken  			                   # Telefunken Radio Communication Systems GmbH COKG
+AIT                     			 # AIT Austrian Institute Technology GmbH
+Soyo Tech                             		   # Soyo Group Soyo Com Tech
+Winpresa 				           # Winpresa Building Automation Technologies GmbH
+Dako Edvingenieur und Gmbh                        # Dako Edvingenieur und Systemhaus Gmbh
+Toledo Brasil Industria  Balancas Ltda                       # Toledo Brasil Industria Balancas Ltda
+King Champion		                           # King Champion Hong Kong Limited
+CLP Logistik   	                                  # CLP Computer Logistik Planung Gmbh
+Commtech Technology		                # Commtech Technology Macao Commercial Offshore
+九安光电		                             # Guangzhou Juan Optical Electronical Tech Joint Stock
+Curtiss Wright			                 # Curtiss Wright Controls Embedded Computing
+Creatix Polymedia Ges Fur                         # Creatix Polymedia Ges Fur Kommunikaitonssysteme（未查到此公司）
+Net Miles Technology	                            # Shanghai Net Miles Fiber Optics Technology
+Tianrui Power Tech                              # Zhuhai Tianrui Electrical Power Tech
+Open Standard Interface Satcom                    # Open Standard Digitalif Interface Satcom Systems(无此公司，只是一个标准)
+Giga Stream Umts	                            # Giga Stream Umts Technologies Gmbh
+Nishi Nippon Wire & Cable                           # Nishi Nippon Electric Wire Cable
+Sat Internet Services GmbH                           # SIS Sat Internet Services GmbH
+Magneti Marelli			                  # Magneti Marelli Sistemas Electronicos Mexico
+Delta Danish Light Acoustics                      # Delta Danish Electronics Light Acoustics
+Trpico Sistemas Amaznia LTDA                      # Trpico Sistemas Telecomunicaes Amaznia LTDA
+Ming Hong Technology                               # Ming Hong Technology shen Zhen Limited
+Midas Communication Technologies PTE              # Midas Communication Technologies PTE Foreign Branch
+Sanrad Intelligence Storage Communications        # Sanrad Intelligence Storage Communications 2000
+Siemens				                  # Siemens Home Office Comm Devices
+Society Microprocessor Microprocessor Standards   # Computer Society Microprocessor Microprocessor Standards（这也是个标准，而不是公司）
+Kontron 		                          # Kontron Design Manufacturing Services Sdn Bhd
+乐视			                          # Shi Zhi Xin Electronic Technology Tianjin Limited
+Toshiba Samsung Storage Technolgoy                # Toshiba Samsung Storage Technolgoy Korea
+Gude Analog und Digialsysteme                     # Gude Analog und Digialsysteme GmbH
+NGN Easy Satfinder	                          # NGN Easy Satfinder Tianjin Electronic
+Codan Rado Communications                          # Daniels Electronics dbo Codan Rado Communications
+Honey Bee Hong Kong                               # Honey Bee Hong Kong Limited
+Ieee P1823 Standards Working Group                # Ieee P1823 Standards Working Group
+EPFL				                # Ecole Polytechnique Federale Lausanne epfl
+Emporia Telecom 			           # Emporia Telecom Produktions und Vertriebsgesmbh
+Honeywell Environmental Combustion Controls        # Honeywell Environmental Combustion Controls Tianjin
+CRSC				                  # Beijing National Railway Research Design Institute Signal Communication
+ONQ dba ONQ Mesh                                  # ONQ dba ONQ Mesh Networks
+Parker Hannifin Manufacturing Germany             # Parker Hannifin Manufacturing Germany GmbH
+Shen Zhen Lite Star Electronics Technology	  # Shen Zhen Lite Star Electronics Technology
+Wuxi SKY Chip Interconnection Technology          # Wuxi SKY Chip Interconnection Technology
+Penta Gesellschaft Elektronische GmbH              # Penta Gesellschaft Elektronische Industriedatenverarbeitung mbH
+FMT Aircraft Gate Support                         # FMT Aircraft Gate Support Systems
+Babcock & Wilcox			          # Babcock Wilcox Power Generation Group
+Imbel Material Belico Brasil                      # Imbel Industria Material Belico Brasil
+Tonfunk und Service GmbH                          # Tonfunk Systementwicklung und Service GmbH
+Siemens			                          # Siemens Sector Industry Drive Technologies Motion Control Systems
+A-Max Technology        		          # AMax Technology Macao Commercial Offshore Company Limited
+Circle Reliance			                  # Circle Reliance DBA Cranberry Networks
+北大青鸟		                          # Beida Jade Bird Huaguang Technology
+Teleplan Technology 	                          # Teleplan Technology Services Sdn Bhd
+Integrated Device Technology                     # Integrated Device Technology Malaysia Sdn Bhd
+GreenWave Telecommunication                       # Green Wave Telecommunication SDN BHD
+Kidasen Comercio Antenas Ltda                     # Kidasen Industria Comercio Antenas Ltda
+Wing Sing Electronics                             # Wing Sing Electronics Hong Kong Limited
+北京矿冶研究院			                  # Beijing General Research Institute Mining Metallurgy
+Sinotech Engineering Consultants	          # Sinotech Engineering Consultants Geotechnical Enginee
+Linear DMS Solutions                                # Linear DMS Solutions Sdn Bhd
+NPP Eliks America 	                           # NPP Eliks America DBA Atlantic
+湖南丰辉银佳		                         # Hunan Fenghui Yinjia Science And Technology
+ABB Power Power Generation                        # ABB Power Systems Power Generation

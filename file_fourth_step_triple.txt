@@ -1,0 +1,483 @@
+Dynamic System Electronics                        # Dynamic System Electronics
+Miovision Technologies Incorporated               # Miovision Technologies Incorporated
+Colorado Med Tech                                 # Colorado Med Tech
+American Security Products                        # American Security Products
+Western Digital Technologies                      # Western Digital Technologies
+Kathrein Technotrend Gmbh                         # Kathrein Technotrend Gmbh
+MSFVathauer Antriebstechnik GmbH                  # MSFVathauer Antriebstechnik GmbH
+Titze Datentechnik Gmbh                           # Titze Datentechnik Gmbh
+Advance Wireless Technology                       # Advance Wireless Technology
+Shanghai Joindata Technology                      # Shanghai Joindata Technology
+ProMinent Dosiertechnik GmbH                      # ProMinent Dosiertechnik GmbH
+Advanced Technology Labs                          # Advanced Technology Labs
+Wuhan Telecommunication Devices                   # Wuhan Telecommunication Devices
+Digital Control Incorporated                      # Digital Control Incorporated
+Treetech Sistemas Digitais                        # Treetech Sistemas Digitais
+Jiangsu Yitong HighTech                           # Jiangsu Yitong HighTech
+Junger AudioStudiotechnik GmbH                    # Junger AudioStudiotechnik GmbH
+Network Security Systems                          # Network Security Systems
+Koos Technical Services                           # Koos Technical Services
+Universal Control Solution                        # Universal Control Solution
+Japan Control Engineering                         # Japan Control Engineering
+Elitegroup Computer Systems                       # Elitegroup Computer Systems
+Stoeber Antriebstechnik Gmbh                      # Stoeber Antriebstechnik Gmbh
+Logical Design Group                              # Logical Design Group
+NovaTec Kommunikationstechnik GmbH                # NovaTec Kommunikationstechnik GmbH
+Northwest Digital Systems                         # Northwest Digital Systems
+Technology Advancement Group                      # Technology Advancement Group
+Beijing E3Control Technology                      # Beijing E3Control Technology
+Wago Kontakttechnik Gmbh                          # Wago Kontakttechnik Gmbh
+Shin Wang Tech                                    # Shin Wang Tech
+Video Products Group                              # Video Products Group
+Scalable Network Technologies                     # Scalable Network Technologies
+ATech elektronika doo                             # ATech elektronika doo
+Advanced Technology Systems                       # Advanced Technology Systems
+SensorTechnik Wiedemann GmbH                      # SensorTechnik Wiedemann GmbH
+Technically Elite Concepts                        # Technically Elite Concepts
+Messcomp Datentechnik GmbH                        # Messcomp Datentechnik GmbH
+SHC Netzwerktechnik GmbH                          # SHC Netzwerktechnik GmbH
+Advanced Control Systems                          # Advanced Control Systems
+GlobalBeiMing technology BeijingCo                # GlobalBeiMing technology BeijingCo
+Phytec Messtechnik GmbH                           # Phytec Messtechnik GmbH
+Mobile Technologies Limited                       # Mobile Technologies Limited
+Design Research Systems                           # Design Research Systems
+Beijing Telecommunications equipment              # Beijing Telecommunications equipment
+Digital Electronic Network                        # Digital Electronic Network
+Advanced Computer Solutions                       # Advanced Computer Solutions
+Advanced Telecommunication Technologies           # Advanced Telecommunication Technologies
+Anviz Biometric Tech                              # Anviz Biometric Tech
+Telecom Shenzhen Limited                          # Telecom Shenzhen Limited
+Design Design Technology                          # Design Design Technology
+International Data Communications                 # International Data Communications
+Shenzhen Communication Technology                 # Shenzhen Communication Technology
+Jireh Energy Tech                                 # Jireh Energy Tech
+Sunniwell Cyber Tech                              # Sunniwell Cyber Tech
+Tower Tech Srl                                    # Tower Tech Srl
+Musilab Electronics DongGuanCo                    # Musilab Electronics DongGuanCo
+American Technology LABS                          # American Technology LABS
+Shenzhen VisionSTOR Technologies                  # Shenzhen VisionSTOR Technologies
+Telecom Electronic Technology                     # Telecom Electronic Technology
+Logic Product Development                         # Logic Product Development
+Herrmann Ultraschalltechnik GmbH                  # Herrmann Ultraschalltechnik GmbH
+Asiarock Technology Limited                       # Asiarock Technology Limited
+Data Video Technologies                           # Data Video Technologies
+Shenzhen Communication Technologies               # Shenzhen Communication Technologies
+Computer Engineering Limited                      # Computer Engineering Limited
+EMH Energiemesstechnik GmbH                       # EMH Energiemesstechnik GmbH
+Shanghai Mobiletek Communication                  # Shanghai Mobiletek Communication
+Advanced Electronic Design                        # Advanced Electronic Design
+Southern Vision Systems                           # Southern Vision Systems
+Digital Video Communications                      # Digital Video Communications
+Digital Video NetworksShanghai                    # Digital Video NetworksShanghai
+Mythology Tech Express                            # Mythology Tech Express
+Industrial Control Communications                 # Industrial Control Communications
+Imaging Solutions Group                           # Imaging Solutions Group
+Athena Wireless Communications                    # Athena Wireless Communications
+Shanghai Genvision Industries                     # Shanghai Genvision Industries
+Software Technologies Group                       # Software Technologies Group
+Access Systems Americas                           # Access Systems Americas
+Videology Imaging Solutions                       # Videology Imaging Solutions
+Infratec Datentechnik GmbH                        # Infratec Datentechnik GmbH
+Gravotech Marking SAS                             # Gravotech Marking SAS
+Japan Minicomputer Systems                        # Japan Minicomputer Systems
+Matuschek Messtechnik GmbH                        # Matuschek Messtechnik GmbH
+Xia Men Joyatech                                  # Xia Men Joyatech
+Data Transmission Network                         # Data Transmission Network
+Space Shuttle HiTech                              # Space Shuttle HiTech
+TLab West Systems                                 # TLab West Systems
+Network Equipment Technologies                    # Network Equipment Technologies
+Electronics India Limited                         # Electronics India Limited
+Optical Access International                      # Optical Access International
+Software International Limited                    # Software International Limited
+Network Video Technologies                        # Network Video Technologies
+Advanced Mobile Telecom                           # Advanced Mobile Telecom
+Optical Communications Products                   # Optical Communications Products
+Korea Network Systems                             # Korea Network Systems
+Data Information Technology                       # Data Information Technology
+Berghof Automationstechnik Gmbh                   # Berghof Automationstechnik Gmbh
+Tews Datentechnik GmbH                            # Tews Datentechnik GmbH
+Video Technology Computers                        # Video Technology Computers
+Electronic Computer Systems                       # Electronic Computer Systems
+Information Technology Limited                    # Information Technology Limited
+Data Control Equipment                            # Data Control Equipment
+Shanghai DareGlobal Technologies                  # Shanghai DareGlobal Technologies
+Jenaer Antriebstechnik GmbH                       # Jenaer Antriebstechnik GmbH
+Advanced Wireless Dynamics                        # Advanced Wireless Dynamics
+Electronics Mobile Communications                 # Electronics Mobile Communications
+Eutech Instruments PTE                            # Eutech Instruments PTE
+Datahouse Information Systems                     # Datahouse Information Systems
+Japan Digital Laboratyltd                         # Japan Digital Laboratyltd
+Corporate Network Systems                         # Corporate Network Systems
+LongdhuaBeijing Controls Technology               # LongdhuaBeijing Controls Technology
+Somo Holdings TECH                                # Somo Holdings TECH
+Security Dynamics Technologies                    # Security Dynamics Technologies
+Pou Yuen Tech                                     # Pou Yuen Tech
+Unglaube Identech GmbH                            # Unglaube Identech GmbH
+Protechna Herbst GmbH                             # Protechna Herbst GmbH
+Dirmeier Schanktechnik Gmbh                       # Dirmeier Schanktechnik Gmbh
+Universal Access Technology                       # Universal Access Technology
+Hydac Filtertechnik Gmbh                          # Hydac Filtertechnik Gmbh
+Technische Alternative GmbH                       # Technische Alternative GmbH
+TeletechRD Planning Team                          # TeletechRD Planning Team
+Globalsat International Technology                # Globalsat International Technology
+International Communications Products             # International Communications Products
+Universal Data Systems                            # Universal Data Systems
+Carinthian Tech Institute                         # Carinthian Tech Institute
+Technikum Joanneum GmbH                           # Technikum Joanneum GmbH
+BAY Technical Associates                          # BAY Technical Associates
+Chengdu ethercom technology                       # Chengdu ethercom technology
+Westinghouse Electric Company                     # Westinghouse Electric Company
+Advanced Industrial Computer                      # Advanced Industrial Computer
+Industrial Control Systems                        # Industrial Control Systems
+Eckelmann Steuerungstechnik GmbH                  # Eckelmann Steuerungstechnik GmbH
+Itech Instruments SAS                             # Itech Instruments SAS
+Advanced Video Communications                     # Advanced Video Communications
+MacroSystem Digital Video                         # MacroSystem Digital Video
+Select Engineered Systems                         # Select Engineered Systems
+Netcom Sicherheitstechnik Gmbh                    # Netcom Sicherheitstechnik Gmbh
+Korea Computer Technology                         # Korea Computer Technology
+Network Information Technology                    # Network Information Technology
+AlphaTech PLC Intl                                # AlphaTech PLC Intl
+Werma Signaltechnik GmbH                          # Werma Signaltechnik GmbH
+Access Devices Limited                            # Access Devices Limited
+Datawire Communication Networks                   # Datawire Communication Networks
+Hangzhou System Technology                        # Hangzhou System Technology
+Blankom Antennentechnik Gmbh                      # Blankom Antennentechnik Gmbh
+Haivision Network Video                           # Haivision Network Video
+Electronics Company Limited                       # Electronics Company Limited
+Icarvisions shenzhen Technology                   # Icarvisions shenzhen Technology
+Digital Electronics Products                      # Digital Electronics Products
+Korea Data Systems                                # Korea Data Systems
+Xian NovaStar Tech                                # Xian NovaStar Tech
+Biostar Microtech Intl                            # Biostar Microtech Intl
+Innatech SDN BHD                                  # Innatech SDN BHD
+Electronic Theatre Controls                       # Electronic Theatre Controls
+Advance Vision Electronics                        # Advance Vision Electronics
+Chinasys Technologies Limited                     # Chinasys Technologies Limited
+Computer Systems Engineering                      # Computer Systems Engineering
+Northover Solutions Limited                       # Northover Solutions Limited
+UniData Communication Systems                     # UniData Communication Systems
+Optical Systems Design                            # Optical Systems Design
+Advanced Digital Technology                       # Advanced Digital Technology
+Advanced Logic Research                           # Advanced Logic Research
+Shanghai DigiVision Technology                    # Shanghai DigiVision Technology
+tech Tecnologia Ltda                              # tech Tecnologia Ltda
+VXL eTech Pvt                                     # VXL eTech Pvt
+Stotz Feinmesstechnik GmbH                        # Stotz Feinmesstechnik GmbH
+Digital Transmission Systems                      # Digital Transmission Systems
+Japan System Design                               # Japan System Design
+Aetheris Technology Shanghai                      # Aetheris Technology Shanghai
+Navman New Zealand                                # Navman New Zealand
+DMS Dorsch Gmbh                                   # DMS Dorsch Mikrosystem Gmbh
+1394 Printer Working                              # 1394 Printer Working Group
+Thales Transportation GmbH                        # Thales Transportation Systems GmbH
+Speed Dragon Multimedia                           # Speed Dragon Multimedia Limited
+Rembrandt Dba Remstream                           # Rembrandt Technologies Dba Remstream
+Nuki Home GmbH                                    # Nuki Home Solutions GmbH
+BMT Medical sro                                   # BMT Medical Technology sro
+Canadian Bank Note                                # Canadian Bank Note Company
+Reutech Radar PTY                                 # Reutech Radar Systems PTY
+CTSClima Temperatur GmbH                          # CTSClima Temperatur Systeme GmbH
+York Refrigeration Marine                         # York Refrigeration Marine Controls
+Hisense Mobile Technoligy                         # Hisense Mobile Communications Technoligy
+Krauss Maffei GmbH                                # Krauss Maffei Technologies GmbH
+Lockheed Martin Tactical                          # Lockheed Martin Tactical Systems
+Harris SYS DIV                                    # Harris Computer SYS DIV
+Teraoka Weigh PTE                                 # Teraoka Weigh System PTE
+GSS Grundig GmbH                                  # GSS Grundig SATSystems GmbH
+Stahl HMI Gmbh                                    # Stahl HMI Systems Gmbh
+General Engine Management                         # General Engine Management Systems
+Founder Broadband Service                         # Founder Broadband Network Service
+United Fiber Optic                                # United Fiber Optic Communication
+Nippon Koei Power                                 # Nippon Koei Power Systems
+Hugh Symons Concept                               # Hugh Symons Concept Technologies
+Samwin Hong Kong                                  # Samwin Hong Kong Limited
+Barco Rooms Gmbh                                  # Barco Control Rooms Gmbh
+Hirschmann Automation GmbH                        # Hirschmann Automation Control GmbH
+GTek Sdn Bhd                                      # GTek Electronics Sdn Bhd
+Ieee 1722a Working                                # Ieee 1722a Working Group
+IBSmm Embedded Consulting                         # IBSmm Embedded Electronics Consulting
+Digicable India Pvt                               # Digicable Network India Pvt
+Jinan USR IOT                                     # Jinan USR IOT Technology
+Sulzer Pump Finland                               # Sulzer Pump Solutions Finland
+Zhongshan Scinan Things                           # Zhongshan Scinan Internet Things
+FlexP Sdn Bhd                                     # FlexP Industries Sdn Bhd
+Syscor amp Automation                             # Syscor Controls amp Automation
+NEC Unified Nederland                             # NEC Unified Solutions Nederland
+Elite Power Tech                                  # FuJian Elite Power Tech
+Thales Elektronik Gmbh                            # Thales Elektronik Systeme Gmbh
+Funkwerk plettac GmbH                             # Funkwerk plettac electronic GmbH
+World Media AND                                   # World Media AND Technology
+Maxi View Holdings                                # Maxi View Holdings Limited
+Ieee 19041 Working                                # Ieee 19041 Working Group
+Komeg Messtechnik Gmbh                            # Komeg Industrielle Messtechnik Gmbh
+ABB Switzerland Power                             # ABB Switzerland Power Systems
+Raster Image Processing                           # Raster Image Processing System
+Alphion India Private                             # Alphion India Private Limited
+Indus Teqsite Private                             # Indus Teqsite Private Limited
+FMS Force Measuring                               # FMS Force Measuring Systems
+Wuhan Changjiang Equipment                        # Wuhan Changjiang ElectroCommunication Equipment
+Conti Temic GmbH                                  # Conti Temic Microelectronic GmbH
+Mianyang Netop Equipment                          # Mianyang Netop Telecom Equipment
+Falcom Comunications Gmbh                         # Falcom Wireless Comunications Gmbh
+Elcom Innovations Private                         # Elcom Innovations Private Limited
+Function ATI Huizhou                              # Function ATI Huizhou Telecommunications
+Trading Center DBA                                # Taiwan Trading Center DBA
+Vapor Stone Rail                                  # Vapor Stone Rail Systems
+Cubic Defense Simulation                          # Cubic Defense Simulation Systems
+scemtec Transponder GmbH                          # scemtec Transponder Technology GmbH
+NEC Casio Mobile                                  # NEC Casio Mobile Communications
+Kaixiang Info Tech                                # Shanghai Kaixiang Info Tech
+ICP Vortex Gmbh                                   # ICP Vortex Computersysteme Gmbh
+Imarda New Zealand                                # Imarda New Zealand Limited
+Hang Zhou Huite                                   # Hang Zhou Huite Technology
+Positron Public Safety                            # Positron Public Safety Systems
+Sirona Dental Gmbh                                # Sirona Dental Systems Gmbh
+Toshiba Toko Meter                                # Toshiba Toko Meter Systems
+Synectic Exports PVT                              # Synectic Telecom Exports PVT
+TCL Technoly Huizhou                              # TCL Technoly Electronics Huizhou
+Siemens Healthcare Diagnostics                    # Siemens Healthcare Diagnostics Manufacturing
+Orient Power Home                                 # Orient Power Home Network
+Decrane Aerospace Audio                           # Decrane Aerospace Audio International
+Huizhou Maorong Intelligent                       # Huizhou Maorong Intelligent Technology
+Xiamen Meitu Mobile                               # Xiamen Meitu Mobile Technologyltd
+Home Singapore Pte                                # Home Control Singapore Pte
+Kostal Elektrik Gmbh                              # Kostal Industrie Elektrik Gmbh
+Eifelwerk Butler GmbH                             # Eifelwerk Butler Systeme GmbH
+Hotel Next Generation                             # Hotel Technology Next Generation
+Jingdong Century Trading                          # Beijing Jingdong Century Trading
+Luster Teraband Photonic                          # Shanghai Luster Teraband Photonic
+Blaupunkt Embedded GmbH                           # Blaupunkt Embedded Systems GmbH
+Flextronics GmbH Nfg                              # Flextronics International GmbH Nfg
+Liteon Clean Energy                               # Liteon Clean Energy Technology
+AirPro India Pvt                                  # AirPro Technology India Pvt
+Phase Motion SpA                                  # Phase Motion Control SpA
+Intelligent Services GmbH                         # Intelligent Digital Services GmbH
+Unified Packet Crop                               # Unified Packet Systems Crop
+Applied Micro AME                                 # Applied Micro Electronics AME
+Malaysia Sdn Bhd                                  # Electronics Malaysia Sdn Bhd
+Lupine Lighting GmbH                              # Lupine Lighting Systems GmbH
+Wuhan Institute MII                               # Wuhan Research Institute MII
+Scotty Austria Gmbh                               # Scotty Group Austria Gmbh
+Belgian Monitoring bvba                           # Belgian Monitoring Systems bvba
+Casio Hitachi Mobile                              # Casio Hitachi Mobile Communications
+BYD Precision Manufacture                         # BYD Precision Manufacture Company
+Schneider Ultra Terminal                          # Schneider Electric Ultra Terminal
+Space Naval Warfare                               # Space Naval Warfare Systems
+Tianjin Deviser Instrument                        # Tianjin Deviser Electronics Instrument
+Avantgarde Acoustic GmbH                          # Avantgarde Acoustic Lautsprechersysteme GmbH
+GEA Farm GmbH                                     # GEA Farm Technologies GmbH
+Navionics dba Scadametrics                        # Navionics Research dba Scadametrics
+Hagleitner Hygiene GmbH                           # Hagleitner Hygiene International GmbH
+Longcheer Singapore Pte                           # Longcheer Technology Singapore Pte
+Luminous Power Pvt                                # Luminous Power Technologies Pvt
+Chunghsin Machinery Mfgcorp                       # Chunghsin Electric Machinery Mfgcorp
+Newland AutoID Tech                               # Fujian Newland AutoID Tech
+AEP Ticketing srl                                 # AEP Ticketing solutions srl
+Teratronik elektronische gmbh                     # Teratronik elektronische systeme gmbh
+Zhongshan General Kmate                           # Zhongshan General Kmate Electronics
+SKS Welding GmbH                                  # SKS Welding Systems GmbH
+Avago Sdn Bhd                                     # Avago Technologies Sdn Bhd
+OPW Fuel Management                               # OPW Fuel Management Systems
+Broadband Antenna Tracking                        # Broadband Antenna Tracking Systems
+PMI Food Equipment                                # PMI Food Equipment Group
+Setha Eletronica Ltda                             # Setha Industria Eletronica Ltda
+Browns Operating Services                         # Browns Operating System Services
+Berthold GmbH andKG                               # Berthold Technologies GmbH andKG
+Mcdonnell Douglas SYS                             # Mcdonnell Douglas Computer SYS
+Rice Lake Weighing                                # Rice Lake Weighing Systems
+VigTech Sdn Bhd                                   # VigTech Labs Sdn Bhd
+HarmanBecker Automotive GmbH                      # HarmanBecker Automotive Systems GmbH
+Satelsa Sistemas Aplicaciones                     # Satelsa Sistemas Aplicaciones Telecomunicaciones
+Hong Kong Tecon                                   # Hong Kong Tecon Technology
+Nokia Business Commun                             # Nokia Wireless Business Commun
+Emerson Appliance Motors                          # Emerson Appliance Motors Controls
+SCI Singapore PTE                                 # SCI Manufacturing Singapore PTE
+Conti Temic GmbH                                  # Conti Temic microelectronic GmbH
+Plexus Sdn Bhd                                    # Plexus Manufacturing Sdn Bhd
+Veethree And Marine                               # Veethree Electronics And Marine
+Eddy Smart Home                                   # Eddy Smart Home Solutions
+ISL Instrumentation Scientifique                  # ISL Instrumentation Scientifique Laboratoire
+MGE UPS France                                    # MGE UPS Systems France
+Furukawa Produtos Eltricos                        # Furukawa Industrial Produtos Eltricos
+Shiron Satellite 1996                             # Shiron Satellite Communications 1996
+Zhejiang Everbright Equip                         # Zhejiang Everbright Communication Equip
+Mitsubishi Logistic Support                       # Mitsubishi Electronics Logistic Support
+Kishu Giken Kogyou                                # Kishu Giken Kogyou Company
+ViE Sdn Bhd                                       # ViE Technologies Sdn Bhd
+Niceway CNC Province                              # Niceway CNC TechnologyLtdHunan Province
+Tianjin 712 Broadcasting                          # Tianjin 712 Communication Broadcasting
+Tech SDN BHD                                      # Tech Electronics SDN BHD
+DLG Automao Ltda                                  # DLG Automao Industrial Ltda
+Everywhere Unterhaltungselektronik GmbH           # Digital Everywhere Unterhaltungselektronik GmbH
+Elma Trenew GmbH                                  # Elma Trenew Electronic GmbH
+ARO Welding SAS                                   # ARO Welding Technologies SAS
+Trumpf Laser Marking                              # Trumpf Laser Marking Systems
+SGM lighting spa                                  # SGM Technology lighting spa
+Astro Strobel Gmbh                                # Astro Strobel Kommunikationssysteme Gmbh
+Fusion dba Fusionio                               # Fusion MultiSystems dba Fusionio
+Kobian Pte Branch                                 # Kobian Pte Taiwan Branch
+Instituto Nacional Tecnologa                      # Instituto Nacional Tecnologa Industrial
+Atlas Material Testing                            # Atlas Material Testing Technology
+Call Direct Cellular                              # Call Direct Cellular Solutions
+Cheng UEI Precision                               # Cheng UEI Precision Industry
+Cheng Uei Precision                               # Cheng Uei Precision Industry
+Phoenix Contact Gmbh                              # Phoenix Contact Electronics Gmbh
+Smart High Reliability                            # Smart High Reliability Solutions
+Biocare BioMedical Equipment                      # shenzhen Biocare BioMedical Equipment
+Navis Auto Motive                                 # Navis Auto Motive Systems
+Siemens Automation EWA                            # Siemens Industrial Automation EWA
+Robert Bosch Automotive                           # Robert Bosch Automotive Electronics
+Sumitomo Metal Micro                              # Sumitomo Metal Micro Devices
+Wei Fang Goertek                                  # Wei Fang Goertek Electronics
+Triangle Intl Pte                                 # Triangle Research Intl Pte
+Kasten Chase Applied                              # Kasten Chase Applied Research
+GCD Hard GmbH                                     # GCD Hard Software GmbH
+Siemens Com CPE                                   # Siemens Com CPE Devices
+Andrew Power Amplifier                            # Andrew Power Amplifier Group
+und Entwicklung GmbH                              # Systemanalyse und Entwicklung GmbH
+Benchmark Romania SRL                             # Benchmark Electronics Romania SRL
+Motorola Mobility Lenovo                          # Motorola Mobility Lenovo Company
+Aplicaciones Quasar AEQ                           # Aplicaciones Electronicas Quasar AEQ
+Rocon PLC Centre                                  # Rocon PLC Research Centre
+Tianjin Golden Pentagon                           # Tianjin Golden Pentagon Electronics
+Master Center Kista                               # Master Industrialization Center Kista
+Crown Audio Harmanm                               # Crown Audio Harmanm International
+IBR Technik Gmbh                                  # IBR Computer Technik Gmbh
+Erwin Peters GmbH                                 # Erwin Peters Systemtechnik GmbH
+Thales Avionics InFlight                          # Thales Avionics InFlight Systems
+Jiangsu Toppower Automotive                       # Jiangsu Toppower Automotive Electronics
+Systronik Elektronik Gmbh                         # Systronik Elektronik Systemtechnik Gmbh
+IBM Fujisawa Mtd                                  # IBM Japan Fujisawa Mtd
+Emerson Climate GmbH                              # Emerson Climate Technologies GmbH
+Genus Power Infrastructures                       # Genus Power Infrastructures Limited
+Jger Metechnik GmbH                               # Jger Computergesteuerte Metechnik GmbH
+Huth Elektronik Gmbh                              # Huth Elektronik Systeme Gmbh
+LSB Broadcast GmbH                                # LSB Broadcast Technologies GmbH
+Olivetti SPA olteco                               # Olivetti Telecomm SPA olteco
+PEP Modular Gmbh                                  # PEP Modular Computers Gmbh
+Jinghan Weighing Apparatus                        # Shanghai Jinghan Weighing Apparatus
+DLI Branch office                                 # DLI Taiwan Branch office
+BEG Brueck GmbH                                   # BEG Brueck Electronic GmbH
+Wincor Nixdorf GmbH                               # Wincor Nixdorf International GmbH
+Xiamen Overseas Chinese                           # Xiamen Overseas Chinese Electronic
+Bosch Innovations GmbH                            # Bosch Software Innovations GmbH
+Pascom Kommunikations GmbH                        # Pascom Kommunikations systeme GmbH
+FAG Services GmbH                                 # FAG Industrial Services GmbH
+ZPM Comercio Ltda                                 # ZPM Industria Comercio Ltda
+Kuka Welding Robots                               # Kuka Welding Systems Robots
+Soft Sdn Bhd                                      # Soft Device Sdn Bhd
+Chung Chen Yeh                                    # Chung Chen Yeh Enterprise
+Ingenieria Comercial Inelcom                      # Ingenieria Electronica Comercial Inelcom
+Austar hang zhou                                  # Austar Technology hang zhou
+Smart Empire Investments                          # Smart Empire Investments Limited
+Xian Hisu Multimedia                              # Xian Hisu Multimedia Technology
+Bodmann Elektronik GmbH                           # Bodmann Industries Elektronik GmbH
+Showa Wire Cable                                  # Showa Electric Wire Cable
+Rena Gmbh Print                                   # Rena Gmbh Print Systeme
+SMA Railway GmbH                                  # SMA Railway Technology GmbH
+Railway Signal Factory                            # Beijing Railway Signal Factory
+Tyco AMP GmbH                                     # Tyco Electronics AMP GmbH
+Shen Zhen RND                                     # Shen Zhen RND Electronic
+Shadong Luneng Jicheng                            # Shadong Luneng Jicheng ElectronicsCo
+Lunatone Elektronik GmbH                          # Lunatone Industrielle Elektronik GmbH
+Radiation Safety Services                         # Radiation Safety Control Services
+Star Link Pvt                                     # Star Link Communication Pvt
+Progress Holding GmbH                             # Systems Progress Holding GmbH
+HAN Sung Indonesia                                # HAN Sung Electoronics Indonesia
+Olivetti SPA olteco                               # Olivetti Telecom SPA olteco
+Schubert Elektronik Gmbh                          # Schubert System Elektronik Gmbh
+Cross Match GmbH                                  # Cross Match Technologies GmbH
+Deep Sea PLC                                      # Deep Sea Electronics PLC
+Myreka Sdn Bhd                                    # Myreka Technologies Sdn Bhd
+Hisense Broadband Multimedia                      # Hisense Broadband Multimedia Technology
+Sichuan Tianyi Comheart                           # Sichuan Tianyi Comheart Telecomco
+Hui Zhou Gaoshengda                               # Hui Zhou Gaoshengda Technology
+Xia Men UnionCore                                 # Xia Men UnionCore Technology
+Tecnologia Comercio Ltda                          # Tecnologia Industria Comercio Ltda
+Marini Impianti srl                               # Marini Impianti Industriali srl
+Krupp Atlas Gmbh                                  # Krupp Atlas Electronik Gmbh
+Nokia Siemens GmbH                                # Nokia Siemens Networks GmbH
+Dalian Netmoon Tech                               # Dalian Netmoon Tech Develop
+Luminex Lighting Equipment                        # Luminex Lighting Control Equipment
+Detlef Fink Elektronik                            # Detlef Fink Elektronik Softwareentwicklung
+Bernecker Rainer Gmbh                             # Bernecker Rainer Industrieelektronic Gmbh
+Day One Media                                     # Day One Digital Media Limited
+Shenyang Neuera Stock                             # Shenyang Neuera Information Technology Stock
+Panasonic Automotive PacificThailandCo            # Panasonic Automotive Systems Asia PacificThailandCo
+Flying Pig End                                    # Flying Pig SystemsHigh End Systems
+Yantai ZhiYang Scientific                         # Yantai ZhiYang Scientific technology industry
+Hong Kong HKT                                     # Hong Kong Telecommunications HKT Limited
+Weijiu AND Trade                                  # Shenzhen Weijiu Industry AND Trade Development
+Dalian Golden Hualu                               # Dalian Golden Hualu Digital Technology
+Liteon Media SBU                                  # Liteon Mobile Media Solution SBU
+Kunshan ductless filtration                       # Kunshan Erlab ductless filtration system
+Haitai Fangyuan High                              # Beijing Haitai Fangyuan High Technology
+General Water Process                             # General Electric Water Process Technologies
+Matsushita Components GmbH                        # Matsushita Electronic Components Europe GmbH
+Emerson Climate Retail                            # Emerson Climate Technologies Retail Solutions
+Mission dba Magma                                 # Mission Technology Group dba Magma
+Shenyang Tongfang Multimedia                      # Shenyang Tongfang Multimedia Technology Company Limited
+Schlumberger Retail Petroleum                     # Schlumberger Technologies Retail Petroleum Systems
+Mitsubishi Heavy Mechatronics                     # Mitsubishi Heavy Industries Mechatronics Systems
+ASC Standards Secretariats                        # ASC Information Technology Standards Secretariats
+Huagong Genuine Optics                            # Wuhan Huagong Genuine Optics Technology
+Ultimate Transportation Gmbh                      # Ultimate Europe Transportation Equipment Gmbh
+Kong Yue Xinhui                                   # Kong Yue Electronics Information Industry Xinhui
+VertexRSI General SatCOM                          # VertexRSI General Dynamics SatCOM Technologies
+Huiyang District Meisiqi                          # Huizhou City Huiyang District Meisiqi Industry Development
+Intelligent High Tech                             # Intelligent Optical Network High Tech
+Sichuan Tianyi Stock                              # Sichuan Tianyi Information Science Technology Stock
+Bisa hong Kong                                    # Bisa Technologies hong Kong Limited
+Powerlink Standardization epsg                    # Ethernet Powerlink Standardization Group epsg
+Matsunichi hong Kong                              # Matsunichi Digital Technology hong Kong Limited
+TCL King Appliances                               # TCL King Electrical Appliances Huizhou
+Hong Kong Wheatek                                 # Hong Kong Wheatek Technology Limited
+XIN FEI JIA                                       # Shenzhen XIN FEI JIA Electronic
+Jide Hong Kong                                    # Jide Technology Hong Kong Limited
+Zhong Shan Litai                                  # Zhong Shan City Litai Electronic Industrial
+Emerson Power Avocent                             # Emerson Network Power Avocent Division
+Oregano Consulting GmbH                           # Oregano Systems Design Consulting GmbH
+Emerson Climate Transportation                    # Emerson Climate Technologies Transportation Solutions
+AVT Audio GmbH                                    # AVT Audio Video Technologies GmbH
+Magneti Marelli Automotive                        # Magneti Marelli Automotive Electronics Guangzhou
+Genius Bytes GmbH                                 # Genius Bytes Software Solutions GmbH
+Sang Fei Consumer                                 # Shenzhen Sang Fei Consumer Communications
+NEC Fibre Optic                                   # Wuhan NEC Fibre Optic Communications industry
+Hong Kong Middleware                              # Hong Kong Middleware Technology Limited
+samtec automotive GmbH                            # samtec automotive electronics software GmbH
+Olympus Soft GmbH                                 # Olympus Soft Imaging Solutions GmbH
+Rousing Sci Tech                                  # Nanjing Rousing Sci Tech Industrial
+Eaton Center Pulizzi                              # Eaton Electrical Group Data Center Solutions Pulizzi
+Shang Hai Tyd                                     # Shang Hai Tyd Electon Technology
+Federal State Unitary                             # Federal State Unitary Enterprise Industrial UnionElectropribor
+Performance DBA Loggers                           # Computer Performance DBA Digital Loggers
+NET New GmbH                                      # NET New Electronic Technology GmbH
+TTC Nextgeneration Home                           # TTC Nextgeneration Home Network System
+Shan World Fair                                   # Shan World Fair Electronics Technology Limited
+Guang Zhou TRISUN                                 # Guang Zhou TRISUN Electronics Technology
+First Blue Chip                                   # Shenzhen First Blue Chip Technology
+HyBroad Hong Kong                                 # HyBroad Vision Hong Kong Technology
+Tian Cheng Technical                              # Fujian Tian Cheng Electron Science Technical Development
+Association TR41 Committee                        # Telecommunications Industry Association TR41 Committee
+Vtech dba Telephones                              # Vtech Innovation dba Advanced American Telephones
+eflow Smart Planning                              # eflow Smart Device Planning Development Division
+Ultra TCS Tactical                                # Ultra Electronics TCS Tactical Communication Systems
+Telekom Sdn Bhd                                   # Telekom Research Development Sdn Bhd
+Glory Star Technics                               # Glory Star Technics ShenZhen Limited
+Hongkong Miracle Eagle                            # Hongkong Miracle Eagle Technologygroup Limited
+ChuangDao Perpetual Eternal                       # Shenzhen ChuangDao Perpetual Eternal Technology
+Parker Hannifin GmbH                              # Parker Hannifin GmbH Electromechanical Division Europe
+Four Seas Link                                    # Shenzhen Four Seas Global Link Network Technology
+Jun Kai Hengye                                    # Shenzhen Jun Kai Hengye Technology
+Jiangxi Jinggangshan Cking                        # Jiangxi Jinggangshan Cking Communication Technology
+AtecoM GmbH modules                               # AtecoM GmbH advanced telecomunication modules
+New Singularity Technical                         # New Singularity International Technical Development
+Strong Rising Subsidiary                          # Shenzhen Strong Rising ElectronicsLtd DongGuan Subsidiary
+ABB Genway Xiamen                                 # ABB Genway Xiamen Electrical Equipment
+Inner Mongolia Yin                                # Inner Mongolia Yin Science Technology Development
+Shin Satellite Public                             # Shin Satellite Public Company Limited
+VDS Display srl                                   # VDS Video Display Systems srl
+Epsg Powerlink Standardization                    # Epsg ethernet Powerlink Standardization Group
+Xiangshan Giant Eagle                             # Xiangshan Giant Eagle Technology Developing
+Benchmark Thailand Public                         # Benchmark Electronics Thailand Public Company Limited

@@ -1,0 +1,20 @@
+'''before'''
+list_dict = ['New Zealand','America','USA','China','Japan','Europe',                             #country
+             'shanghai','Shanghai','Shenzhen','shenzhen','Guangdong','Beijing','beijing','City','Taiwan',   #city
+             'Electronic','electronic','elec','Elec','Tech','TECH','tech',  #tech
+             'Company','limited','Limited','Manufacturing','Information','Networks','Digital','device','Device',
+             'networks','Network','network','Enterprise','enterprise','Enterprises','System','Internet','industr','Industr',
+             'system','systems','Computer','University','Group','Software','Logic','control','Control', 'wireless','Wireless',   #type
+             'Systems','Communication','communicat','Elevator','International','lab','Lab','Research','solution','Solution','science','Science'] #other
+
+
+'''now'''
+list_dict = ['New Zealand','America','USA','China','Japan','Europe','Asia','Korea',                             #country
+             'shanghai','shenzhen','Guangdong','Beijing','City','Taiwan','Shandong','Hangzhou','Chongqing','Fujian',   #city
+             'Electronic','elec','tech',  #tech
+             'Compan','Limited','Manufacturing','Information','Networks','Digital','Device',
+             'Network','Enterprise','System','Internet','Industr','Security',
+             'system','Computer','University','Group','Software','Logic','Control','Wireless',   #type
+             'communicat','Elevator','International','Lab','Research','Solution','Science',
+             'Video','imaging','television','Vision','Dynamic','Mechanics',        #other
+             'the','Advance','Design']
